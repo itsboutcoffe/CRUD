@@ -43,7 +43,7 @@
                 window.location.href = ('index.php')
             } 
             else {
-                alert("run bitch run")
+                alert("Try again")
             }
         }
     </script>
